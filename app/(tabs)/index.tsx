@@ -120,7 +120,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#2563eb",
     padding: 15,
     marginTop: 20,
-    borderRadius: 12,
+    borderRadius: 16,
     alignItems: "center",
   },
   btnText: { color: "white", fontSize: 18, fontWeight: "bold" },
